@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/logsprr/logsprr/blob/main/404%20Error-bro.png" alt="Illustration of Gabriel searching a 404 error" width=350px height=465px/>
+<img align="right" src="https://github.com/logsprr/logsprr/blob/main/404%20Error-bro.png" alt="Illustration of Gabriel searching a 404 error" width=350px height=350px/>
 
 ### Hello, there! 👨🏼‍💻
 
