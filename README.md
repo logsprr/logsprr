@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, there! 👨🏼‍💻
+
+My name is Gabriel Gomes, I'm from Brazil, I started my career like a Frontend Developer and nowadays I'm a TI Lead at Digital S/A, also I'm Mobile Developer and Backend Developer.
+
+[![Gabriel Gomes github stats](https://github-readme-stats.vercel.app/api?username=logsprr)](https://github.com/logsprr/github-readme-stats)
+
 
 <!--
 **logsprr/logsprr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
