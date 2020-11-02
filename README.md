@@ -1,6 +1,8 @@
 ### Hello, there! 👨🏼‍💻
 
-My name is Gabriel Gomes, I'm from Brazil, I started my career like a Frontend Developer and nowadays I'm a TI Lead at Digital S/A, also I'm Mobile Developer and Backend Developer.
+My name is **Gabriel Gomes**, I'm from Brazil, I started my career like a Frontend Developer and nowadays I'm a TI Lead at **[Digital S/A](https://www.digitalsa.com.br/)**, also I'm Mobile Developer and Backend Developer.
+
+Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-university/)**.
 
 [![Gabriel Gomes github stats](https://github-readme-stats.vercel.app/api?username=logsprr)](https://github.com/logsprr/github-readme-stats)
 
