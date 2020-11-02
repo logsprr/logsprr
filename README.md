@@ -6,6 +6,7 @@ My name is **Gabriel Gomes**, I'm from Brazil, I started my career like a Fronte
 
 Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-university/)**.
 
+### My works
 
 - 📱  I’m currently working on ProtoProject App.
 - 🤓 I’m currently learning SwiftUI.
@@ -14,9 +15,11 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 - 😄  Pronouns: he/his
 - 🚴🏽‍♀️  Fun fact: I love cycling and play games, and the more important in my lofe, a good coffee.
 
-
+### My status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logsprr&hide=c,html)](https://github.com/logsprr/github-readme-stats)
 [![Gabriel Gomes github stats](https://github-readme-stats.vercel.app/api?username=logsprr)](https://github.com/logsprr/github-readme-stats)
+
+### My projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
