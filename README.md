@@ -15,7 +15,7 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 - 🚴🏽‍♀️  Fun fact: I love cycling and play games, and the more important in my lofe, a good coffee.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logsprr?hide=c)](https://github.com/logsprr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logsprr&hide=c)](https://github.com/logsprr/github-readme-stats)
 [![Gabriel Gomes github stats](https://github-readme-stats.vercel.app/api?username=logsprr)](https://github.com/logsprr/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
