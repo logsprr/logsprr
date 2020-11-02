@@ -21,7 +21,7 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 
 ### My projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO&line_height=1)](https://github.com/logsprr/PJTPROTO)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PROTOBACKEND)](https://github.com/logsprr/PROTOBACKEND)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
