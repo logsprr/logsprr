@@ -22,10 +22,13 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 ### My Personal Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=Node-Js-Projects)](https://github.com/logsprr/Node-Js-Projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PROTOBACKEND)](https://github.com/logsprr/PROTOBACKEND)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=React-Native-Projects)](https://github.com/logsprr/React-Native-Projects)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=Angular-Projects)](https://github.com/logsprr/Angular-Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=React-Js-Projects)](https://github.com/logsprr/React-Js-Projects)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=Swift-Projects)](https://github.com/logsprr/Swift-Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=Java-Projects)](https://github.com/logsprr/Java-Projects)
 
 ### My Works Projects
 
