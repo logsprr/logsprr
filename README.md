@@ -6,20 +6,14 @@ My name is **Gabriel Gomes**, I'm from Brazil, I started my career like a Fronte
 
 Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-university/)**.
 
+
+- 📱  I’m currently working on ProtoProject App.
+- 🤓 I’m currently learning SwiftUI.
+- 💬  Ask me about iOS development, Swift, React, Javascript, NodeJs, Angular, SQL.
+- 📫  How to reach me: corinthiaswwyy@gmail.com or Linkedin [gabrielgomeslogs](https://www.linkedin.com/in/gabrielgomeslogs/)
+- 😄  Pronouns: he/his
+- 🚴🏽‍♀️  Fun fact: I love cycling and play games, and the more important in my lofe, a good coffee.
+
+
 [![Gabriel Gomes github stats](https://github-readme-stats.vercel.app/api?username=logsprr)](https://github.com/logsprr/github-readme-stats)
 
-
-<!--
-**logsprr/logsprr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
