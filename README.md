@@ -19,7 +19,7 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logsprr&hide=c,html)](https://github.com/logsprr/github-readme-stats)
 [![Gabriel Gomes github stats](https://github-readme-stats.vercel.app/api?username=logsprr)](https://github.com/logsprr/github-readme-stats)
 
-### My Projects
+### My Personal Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO&line_height=1)](https://github.com/logsprr/PJTPROTO)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PROTOBACKEND)](https://github.com/logsprr/PROTOBACKEND)
@@ -27,5 +27,6 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logsprr&repo=PJTPROTO)](https://github.com/logsprr/PJTPROTO)
 
+### My Works Projects
 
 
