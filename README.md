@@ -16,4 +16,6 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 
 
 [![Gabriel Gomes github stats](https://github-readme-stats.vercel.app/api?username=logsprr)](https://github.com/logsprr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logsprr&layout=compact)](https://github.com/logsprr/github-readme-stats)
+
 
