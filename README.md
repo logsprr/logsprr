@@ -2,7 +2,7 @@
 
 ### Hello, there! 👨🏼‍💻
 
-My name is **Gabriel Gomes**, I'm from Brazil, I started my career as Frontend Developer and nowadays I'm a TI Lead at **[Digital S/A](https://www.digitalsa.com.br/)**, also I'm Mobile Developer and Backend Developer.
+My name is **Gabriel Gomes**, I'm from Brazil, I started my career like a Frontend Developer and nowadays I'm a TI Lead at **[Digital S/A](https://www.digitalsa.com.br/)**, also I'm Mobile Developer and Backend Developer.
 
 Too, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-university/)**.
 
