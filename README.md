@@ -2,9 +2,9 @@
 
 ### Hello, there! 👨🏼‍💻
 
-My name is **Gabriel Gomes**, I'm from Brazil, I started my career like a Frontend Developer and nowadays I'm a TI Lead at **[Digital S/A](https://www.digitalsa.com.br/)**, also I'm Mobile Developer and Backend Developer.
+My name is **Gabriel Gomes**, I'm from Brazil, I started my career as Frontend Developer and nowadays I'm a TI Lead at **[Digital S/A](https://www.digitalsa.com.br/)**, also I'm Mobile Developer and Backend Developer.
 
-Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-university/)**.
+Too, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-university/)**.
 
 ### About more me
 
@@ -13,7 +13,7 @@ Also, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-un
 - 💬  Ask me about iOS development, Swift, React, Javascript, NodeJs, Angular, SQL.
 - 📫  How to reach me: corinthiaswwyy@gmail.com or Linkedin [gabrielgomeslogs](https://www.linkedin.com/in/gabrielgomeslogs/)
 - 😄  Pronouns: he/his
-- 🚴🏽‍♀️  Fun fact: I love cycling and play games, and the more important in my lofe, a good coffee.
+- 🚴🏽‍♀️  Fun fact: I love cycling and playing games, and the most important in my life is a good coffee.
 
 ### My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logsprr&hide=c,html)](https://github.com/logsprr/github-readme-stats)
