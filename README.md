@@ -11,7 +11,7 @@ Too, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-uni
 - 📱  I’m currently working on ProtoProject App.
 - 🤓 I’m currently learning SwiftUI.
 - 💬  Ask me about iOS development, Swift, React, Javascript, NodeJs, Angular, SQL.
-- 📫  How to reach me: corinthiaswwyy@gmail.com or Linkedin [gabrielgomeslogs](https://www.linkedin.com/in/gabrielgomeslogs/)
+- 📫  How to reach me: gabrielgomeslogs@gmail.com or Linkedin [Gabriel Gomes](https://www.linkedin.com/in/gabrielgomeslogs/)
 - 😄  Pronouns: he/his
 - 🚴🏽‍♀️  Fun fact: I love cycling and playing games, and the most important in my life is a good coffee.
 
