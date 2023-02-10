@@ -2,7 +2,7 @@
 
 ### Hello, there! 👨🏼‍💻
 
-My name is **Gabriel Gomes**, I'm from Brazil, I started my career like a Frontend Developer and nowadays I'm a Software Engineer  at **[Blacc Spot Media](https://www.blaccspotmedia.com/)**, and Support Lead at **[Alive App](https://alive.app.br/)**, also I'm Mobile Developer and Backend Developer.
+My name is **Gabriel Gomes**, I'm from Brazil, I started my career like a Frontend Developer and nowadays I'm a Self Employed Software Engineer.
 
 Too, I'm Community Lead at **[DSC UEG](https://dsc.community.dev/goias-state-university/)**.
 
